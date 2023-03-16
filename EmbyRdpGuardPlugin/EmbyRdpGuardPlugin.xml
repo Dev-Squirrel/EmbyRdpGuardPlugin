@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="LogDirectory" value="C:\Users\user\AppData\Roaming\Emby-Server\programdata\logs\" />
+    <add key="LogFile" value="embyserver.txt" />
+  </appSettings>
+</configuration>
